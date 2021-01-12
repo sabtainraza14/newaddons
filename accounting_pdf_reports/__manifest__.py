@@ -2,7 +2,7 @@
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 
 {
-    'name': 'Odoo 14 Accounting PDF Reports, ncjksdbvbdcbnjksdbnkbhfnknbnbdbv bdc dkbrk',
+    'name': 'Odoo 14 Accounting PDF Reports, asxaxasxasxasxas ',
     'version': '14.0.2.1.0',
     'category': 'Invoicing Management',
     'summary': 'Accounting Reports For Odoo 14',
